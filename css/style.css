@@ -37,6 +37,9 @@ p {
   .row {
     margin-bottom: 30px;
   }
+}
+
+@media screen and (max-width:576px){
   #page-top {
     width: 40px;
     height: 40px;
